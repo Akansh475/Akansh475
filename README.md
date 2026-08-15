@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Akansh 👋
 
-<!--
-**Akansh475/Akansh475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Graphic Era University
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building AI + Web Applications
+
+📚 Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- System Design
+
+📫 Connect With Me
+- LinkedIn
+- Email
