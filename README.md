@@ -59,16 +59,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akansh475&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansh475&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Akansh475&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akansh475&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akansh475&layout=compact&theme=radical)
 
----
+![](https://streak-stats.demolab.com?user=Akansh475&theme=radical)
 
 ## 🏆 GitHub Achievements
 
