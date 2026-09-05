@@ -43,10 +43,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,nodejs,express,mongodb,postgres,docker,neo4j,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,nodejs,express,react,mongodb,postgres,docker,neo4j,git,github,vscode,linux&theme=dark" />
 
 </div>
 
+**Languages:** C++ · Java · JavaScript · TypeScript · Python
+
+**Backend & Databases:** Node.js · Express · MongoDB · PostgreSQL · Neo4j · Qdrant
+
+**AI/ML:** Groq API · RAG pipelines · Multi-agent systems
+
+**Tools & DevOps:** Docker · Git · Linux · VS Code
 ---
 
 ### 🚀 Featured Projects
