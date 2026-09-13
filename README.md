@@ -1,142 +1,52 @@
-<div align="center">
+### 👋 Hi, I'm Akansh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20There!%20I'm%20Akansh%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
+## 💫 About Me:
+🎓 Third-year B.Tech Computer Science student, building toward backend/ML engineering roles
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Backend+%26+AI+Engineer+in+the+making;Open+Source+Contributor;GSoC+2027+Aspirant" alt="Typing SVG" />
+## 💻 I'm currently working on
+PAC (Project Lulu) — a multi-agent Personal AI Companion system with memory, retrieval, and messaging integration; and open-source contributions toward GSoC 2027 / C4GT DMP 2027.
 
-</div>
+## 🚀 Projects I've built / building
+- **PAC / Project Lulu** — multi-agent AI system with Neo4j, Qdrant, and PostgreSQL for hybrid memory (RAG + Reciprocal Rank Fusion), a Groq-powered LLM layer (llama-3.3-70b), and WhatsApp auto-reply via whatsapp-web.js
+- **Open-source contributions** across Django, MetaBrainz/ListenBrainz, Inkscape, and the Haskell website repo — from doc fixes to bug patches, working with maintainers through review cycles
+- **@heyakansh** — a personal brand on Instagram/YouTube around entrepreneurship and personal development
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akansh475&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Akansh475?label=Followers&style=for-the-badge&color=2575fc" alt="Followers" />
-</p>
+## 🤝 I'm looking to collaborate on
+AI systems, backend infrastructure, and open-source projects with active maintainers and real review cycles.
 
----
+## 🧠 I'm looking for help with
+Breaking into backend/ML roles, scaling multi-agent systems for production, and finding well-scoped open-source issues before they get claimed.
 
-### 🚀 About Me
+## 🌱 I'm currently learning
+Backend systems fundamentals (REST APIs, SQL, database design, auth, caching, networking) through a structured daily mentorship track, alongside DSA and systems design.
 
-```yaml
-🎓 Education: B.Tech Computer Science, Graphic Era Hill University (2024–2028)
-🧠 Focus: Backend & AI/ML Engineering
-🌱 Currently: Contributing to Django, MetaBrainz, and Inkscape
-🎯 Goal: GSoC 2027 & C4GT DMP 2027
-💬 Ask me about: Node.js, System Design, AI Agents
-```
+## 💬 Ask me about
+Multi-agent AI architectures, RAG pipelines, backend systems, open-source contribution strategy, and building in public.
 
----
+## ⚡ Fun fact
+Went from hunting for open-source orgs with zero success for a full week to landing an approved Inkscape fix and a maintainer thank-you.
 
-### 🌍 Open Source Contributions
 
-<div align="center">
 
-| 🏢 Project | 🔧 Contribution | Status |
-|:---:|:---|:---:|
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | Auth documentation how-to guide | 🟡 In Review |
-| ![MetaBrainz](https://img.shields.io/badge/ListenBrainz-EB743B?style=flat-square&logo=musicbrainz&logoColor=white) | Filter persistence + tag dropdown UX fix | 🟡 In Review |
-| ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white) | ICC color fallback bug fix | ✅ Approved |
+## 💻 Tech Stack:
 
-</div>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+## 📊 GitHub Stats:
 
-### 🛠️ Tech Arsenal
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Akansh475&show_icons=true&theme=dark&count_private=true" width="48%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansh475&layout=compact&theme=dark" width="48%" />
 
-<div align="center">
+<br clear="left"/>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,nodejs,express,react,mongodb,postgres,docker,neo4j,git,github,vscode,linux&theme=dark" />
-
-</div>
-
-**Languages:** C++ · Java · JavaScript · TypeScript · Python
-
-**Backend & Databases:** Node.js · Express · MongoDB · PostgreSQL · Neo4j · Qdrant
-
-**AI/ML:** Groq API · RAG pipelines · Multi-agent systems
-
-**Tools & DevOps:** Docker · Git · Linux · VS Code
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Akansh475/pac-infra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akansh475&repo=pac-infra&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/Akansh475/ai-exam-coach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akansh475&repo=ai-exam-coach&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/Akansh475/AcadDesk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akansh475&repo=AcadDesk&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/Akansh475/BizzBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akansh475&repo=BizzBot&theme=dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akansh475&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akansh475&theme=dark&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansh475&layout=compact&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akansh475&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akansh475&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akansh475/Akansh475/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-### 🎯 2026 Goals
-
-- [ ] Land first merged open-source PR
-- [ ] Solve 500+ DSA problems
-- [ ] Ship a production-ready SaaS product
-- [ ] Master system design fundamentals
-- [ ] Secure a software engineering internship
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanshm402@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akansh475&theme=dark)
