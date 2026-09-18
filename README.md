@@ -4,7 +4,7 @@
 🎓 Third-year B.Tech Computer Science student, building toward backend/ML engineering roles
 
 ## 💻 I'm currently working on
-PAC (Project Lulu) — a multi-agent Personal AI Companion system with memory, retrieval, and messaging integration; and open-source contributions toward GSoC 2027 / C4GT DMP 2027.
+PAC  — a multi-agent Personal AI Companion system with memory, retrieval, and messaging integration; and open-source contributions toward GSoC 2027 / C4GT DMP 2027.
 
 ## 🚀 Projects I've built / building
 - **PAC / Project Lulu** — multi-agent AI system with Neo4j, Qdrant, and PostgreSQL for hybrid memory (RAG + Reciprocal Rank Fusion), a Groq-powered LLM layer (llama-3.3-70b), and WhatsApp auto-reply via whatsapp-web.js
