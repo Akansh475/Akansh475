@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Akansh
 
 ## 💫 About Me:
-🎓 Third-year B.Tech Computer Science student, building toward backend/ML engineering roles
+🎓 Third-year BTech Computer Science student, building toward backend/ML engineering roles
 
 ## 💻 I'm currently working on
 PAC  — a multi-agent Personal AI Companion system with memory, retrieval, and messaging integration; and open-source contributions toward GSoC 2027 / C4GT DMP 2027.
