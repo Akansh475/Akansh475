@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Akansh
 
-## 💫 About Me:
+## 💫 About Me :
 🎓 Third-year BTech Computer Science student, building toward backend/ML engineering roles
 
 ## 💻 I'm currently working on
