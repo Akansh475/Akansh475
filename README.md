@@ -21,7 +21,7 @@ Breaking into backend/ML roles, scaling multi-agent systems for production, and 
 Backend systems fundamentals (REST APIs, SQL, database design, auth, caching, networking) through a structured daily mentorship track, alongside DSA and systems design.
 
 ## 💬 Ask me about
-Multi-agent AI architectures, RAG pipelines, backend systems, open-source contribution strategy, and building in public.
+Multi-agent AI architectures, RAG pipeline, backend systems, open-source contribution strategy, and building in public.
 
 ## ⚡ Fun fact
 Went from hunting for open-source orgs with zero success for a full week to landing an approved Inkscape fix and a maintainer thank-you.
